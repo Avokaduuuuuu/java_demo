@@ -9,6 +9,6 @@ package javaapplication4;
  *
  * @author Admin
  */
-public class Person {
+public class WTF {
     
 }
